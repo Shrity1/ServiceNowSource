@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="TestSourceControl" max_length="40" name="x_snc_ss_test_testsourcecontrol" type="collection">
+        <element label="subcomponent" max_length="10" name="subcomponent" type="string"/>
+        <element label="zDemo" max_length="40" name="u_integer_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="SubComponent" max_length="40" name="u_string_1" type="string"/>
+        <element label="zDemo" max_length="40" name="zdemo" type="integer"/>
+    </element>
+</database>
